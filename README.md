@@ -41,3 +41,9 @@ https://www.instagram.com/p/Cx7kuJHt7c-/
 
 live p5 version
 
+https://greggelong.github.io/sineProblem/sineProbP5/
+
+move the mouse top to bottom to change the warp
+
+move the mouse left to right to change the cell size
+
