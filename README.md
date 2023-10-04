@@ -33,3 +33,11 @@ I was able to with a function that sums the digits of the cell and returns the a
 then I multiply that by the original cell number and take the sine
 
 processing must be doing some averaging 
+
+
+see on instagram here
+
+https://www.instagram.com/p/Cx7kuJHt7c-/
+
+live p5 version
+
